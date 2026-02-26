@@ -32,9 +32,6 @@ It demonstrates strong front-end development skills including layout structuring
 
 ---
 
-
----
-
 ## 💡 Core Functionality
 
 ### 📧 Email Input Handling
@@ -76,3 +73,10 @@ This project was developed to strengthen skills in:
 ## 📸 Preview
 
 Open `index.html` in your browser to view the live interface.
+<img width="1900" height="868" alt="image" src="https://github.com/user-attachments/assets/8ed53366-8e88-4283-829a-5ca71d43c8e7" />
+<img width="1900" height="866" alt="image" src="https://github.com/user-attachments/assets/276a9869-8477-4d78-8b34-c4871f0c03ac" />
+<img width="1902" height="866" alt="image" src="https://github.com/user-attachments/assets/18e156b3-7d57-449d-9f62-29df05647145" />
+<img width="1898" height="866" alt="image" src="https://github.com/user-attachments/assets/4d371d69-1535-4a4d-9cf5-eb35e429d263" />
+
+
+
